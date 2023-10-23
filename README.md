@@ -11,7 +11,7 @@ Code for numerical simulations of different off-resonant water excitation RF pul
 Data: https://zenodo.org/records/8338079
 - Includes volunteer data (DICOM and Raw Data) for RF pulse calibration (n=3)
 - Includes free-breathing 3D radial whole-heart volunteer data (DICOM and Raw Data) used for RF pulse comparison (n=5)
-- Remark: Images were reconstructed at the scanner. Therefore  DICOMS were used for the analysis provided in the paper. 
+- Remark: Images were reconstructed at the scanner. Therefore  DICOMS were used for the analysis provided in the paper. Raw data is provided for the community to potentially test different image recontruction and motion compenation methods.
 **************
 Acknowledgement:
 The framework of Brian Hargreaves was used as bases for the current simulations (http://mrsrl.stanford.edu/~brian/bloch/)
