@@ -4,7 +4,7 @@ Contains matlab code to numerically simulate LIBOR, LIBRE, and BORR RF pulses. A
 Publication (Pre-print):
 
 Contains:
-- Main_LIBOR_paper.m: Script to simulate the RF pulses and generate manuscript figures
+- Main_LIBOR_paper.m: Script to simulate the RF pulses and generate manuscript figures (including RF waveforms)
 - All other m files are auxiliary functions
 
 Acknowledgement:
