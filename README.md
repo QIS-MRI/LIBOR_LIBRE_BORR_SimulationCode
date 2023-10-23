@@ -6,7 +6,7 @@ Publication (Pre-print):
 ********************
 Code for numerical simulations of different off-resonant water excitation RF pulses
 - Main_LIBOR_paper.m: Script to simulate the RF pulses and generate manuscript figures (including RF waveforms)
-- All other *.m files are auxiliary functions
+- Folder "dependencies" contains auxiliary *.m files 
 ***************
 Data: https://zenodo.org/records/8338079
 - Includes volunteer data (DICOM and Raw Data) for RF pulse calibration (n=3)
