@@ -3,6 +3,7 @@ Contains matlab code to numerically simulate LIBOR, LIBRE, and BORR RF pulses. I
 
 Publication (Pre-print):
 
+We would appreciate any feedback and welcome any inquiries!
 ********************
 Code for numerical simulations of different off-resonant water excitation RF pulses
 - Main_LIBOR_paper.m: Script to simulate the RF pulses and generate manuscript figures (including RF waveforms)
