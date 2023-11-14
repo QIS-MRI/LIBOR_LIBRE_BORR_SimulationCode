@@ -3,7 +3,7 @@
 - Contains matlab code to read 3D radial phyllotaxis raw data from Siemens scanner, and compute k-space trajectory coordinates.
 - Includes links to anonymized volunteer data from free-breathing 3D radial whole-heart MRI scans (DICOMS and RAW DATA).
 
-Publication (Pre-print):
+Publication (Pre-print): https://arxiv.org/abs/2311.07147
 
 We would appreciate any feedback and welcome any inquiries!
 ***************
